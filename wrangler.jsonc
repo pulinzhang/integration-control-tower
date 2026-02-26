@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules:wrangler/json-schema",
+  "name": "integration-control-tower",
+  "compatibility_date": "2026-02-26",
+  "pages_build": {
+    "bucket": "dist"
+  }
+}
+
